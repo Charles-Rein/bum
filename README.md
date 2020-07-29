@@ -1,2 +1,2 @@
-https://charles-rein.github.io/anotherone/
+https://charles-rein.github.io/bum/
 # anotherone
